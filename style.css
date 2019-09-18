@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background: url(img/mountain.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.main-section{
+    margin: 0 auto;
+    margin-top: 130px;
+    padding: 0;
+}
+.modal-content {
+    background-color: white;
+    opacity: .95;
+    padding: 0 18px;
+}
+.form-group {
+    margin-bottom: 25px;
+}
+.form-group input {
+    height: 42px;
+    border-radius: 5px;
+    border: 0;
+    font-size: 18px;
+}
+.form-group::before {
+    font-family: "Font Awesome\ 5 free";
+
+}
+.btn{
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
